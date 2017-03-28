@@ -5,7 +5,7 @@ package net.lovememo.chapter02
   */
 object HelloWorld {
   def test(param:String) :Unit = {
-    println("hello World ，你好，世界！" + param)
+    println("hello World ，你好，世界！ test git commit" + param)
   }
 //你好中文
   def main(args: Array[String]): Unit = {
